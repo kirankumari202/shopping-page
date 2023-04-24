@@ -4,7 +4,7 @@ const list = [
         "itemName": "Brown a-line Dress",
         "itemImg": "cotton",
         "itemDescription": "Brown A-line Dress with wrap belt",
-        "itemPrice": 1200,
+        "itemPrice": 1500,
         "itemOldPrice": 2300,
         "count": 1
     },
